@@ -1,7 +1,13 @@
-# Aula sobre Comentários em códigos
-print("Linha 1")
-# print("Linha 2")
-print("Linha 3")
-print("Linha 4")
-# print("Linha 5")
-print("Linha 6")
+# Aula comando print
+
+print(123456)
+# print("Diusval", "Gonçalves", "Pinheiro")
+print("Diusval", "Pinheiro", sep="-", end=" ##### ")
+print("Diusval", "e", "Luiza", sep="-")
+
+"""
+824.176.070-18
+"""
+
+print("824", "176", "070", sep=".", end="-")
+print("18")
