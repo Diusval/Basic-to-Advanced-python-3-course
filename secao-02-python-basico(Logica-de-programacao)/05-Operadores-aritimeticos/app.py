@@ -18,3 +18,5 @@ print("Divisão / ", 10 / 10)
 
 # print("Diusval" + " " + "Pinheiro e ele tem " + str(32) + " anos")
 
+print(5 + 2 * 10)
+print((5 + 2) * 10)
